@@ -1,24 +1,50 @@
-body, main, footer{
+body,
+main,
+footer {
     background-color: rgb(235, 207, 53);
-} 
-.navbar {
-    color: rgb(224, 201, 68); /* Cor de fundo */
 }
-.fonte{
+
+.navbar {
+    color: rgb(224, 201, 68);
+    /* Cor de fundo */
+}
+
+.fonte {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: aliceblue;
 }
-p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: brown;
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif color: rgb(0, 0, 0);
+    font-size: 25pt;
 }
-.nav-link{
+
+.nav-link {
     color: rgb(255, 255, 255);
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 15pt;
-    
+
 }
-.title-text{
+
+.title-text {
     color: white;
     text-align: center;
 }
+
+.card {
+    font-family: sans-serif;
+}
+
+.modal-content {
+    background-color: rgb(235, 193, 56);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+
+}
+
+.imageqs {
+
+    margin: 0 auto;
+}
+
+.modal-bo
