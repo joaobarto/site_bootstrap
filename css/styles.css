@@ -1,8 +1,8 @@
-main, footer{
-    background-color: black;
+body, main, footer{
+    background-color: rgb(235, 207, 53);
 } 
 .navbar {
-    color: yellow; /* Cor de fundo */
+    color: rgb(224, 201, 68); /* Cor de fundo */
 }
 .fonte{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -11,4 +11,14 @@ main, footer{
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: brown;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15pt;
+    
+}
+.title-text{
+    color: white;
+    text-align: center;
 }
