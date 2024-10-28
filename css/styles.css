@@ -15,8 +15,9 @@ footer {
 }
 
 p {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif color: rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25pt;
+    text-align: justify;
 }
 
 .nav-link {
@@ -46,5 +47,7 @@ p {
 
     margin: 0 auto;
 }
+.modal{
+    text-align:left;
 
-.modal-bo
+}
