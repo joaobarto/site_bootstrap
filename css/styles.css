@@ -1,7 +1,5 @@
-body,
-main,
-footer {
-    background-color: rgb(235, 207, 53);
+body, main, header{
+    background-color: rgb(255, 204, 36);
 }
 
 .navbar {
@@ -49,5 +47,10 @@ p {
 }
 .modal{
     text-align:left;
-
+}
+.breadcrumb-item1{
+    color: white;
+}
+body, footer{
+    background-color: red;
 }
